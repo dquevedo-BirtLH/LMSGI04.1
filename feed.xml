@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Gran Premio de F1 - Temporada 2026</title>
+    <link>https://dquevedo-birthlh.github.io/LMSGI04.1/</link>
+    <description>Novedades e información del sitio web sobre el Gran Premio de Fórmula 1.</description>
+    <language>es</language>
+    <lastBuildDate>Fri, 06 Nov 2026 12:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>Información general del Gran Premio de Fórmula 1</title>
+      <link>https://dquevedo-birthlh.github.io/LMSGI04.1/index.html</link>
+      <description>Presentación del sitio web y datos generales sobre el evento de Fórmula 1.</description>
+      <pubDate>Fri, 06 Nov 2026 11:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://dquevedo-birthlh.github.io/LMSGI04.1/index.html</guid>
+    </item>
+
+    <item>
+      <title>Información sobre los circuitos de Fórmula 1</title>
+      <link>https://dquevedo-birthlh.github.io/LMSGI04.1/circuitos.html</link>
+      <description>Información relacionada con los circuitos y los trazados de la competición.</description>
+      <pubDate>Fri, 06 Nov 2026 11:00:00 GMT</pubDate>
+      <guid isPermaLink="true">https://dquevedo-birthlh.github.io/LMSGI04.1/circuitos.html</guid>
+    </item>
+  </channel>
+</rss>
